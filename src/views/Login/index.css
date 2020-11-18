@@ -1,0 +1,9 @@
+.loginDiv{
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 14px;
+}
+.loginDiv div{
+    margin: 10px 0;
+}
